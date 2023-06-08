@@ -29,8 +29,8 @@ body{
 /* style for each square in the puzzle */
 
 #puzzle-container .puzzleSquare {
-    height: 6vh;
-    width: 6vh;
+    height: 5.5vh;
+    width: 5.5vh;
     text-transform: uppercase;
     background-color: white;
     border: 1px solid black;
