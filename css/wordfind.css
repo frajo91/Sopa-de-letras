@@ -34,7 +34,7 @@ body{
     text-transform: uppercase;
     background-color: white;
     border: 1px solid black;
-    font: 1.8em Brandon Grotesque;
+    font: 1.3em Brandon Grotesque;
 }
 
 #puzzle-container button::-moz-focus-inner {
@@ -63,7 +63,7 @@ body{
 */
 
 #puzzle-words {
-    padding-top: 20px;
+    padding-top: 15px;
 
 }
 
@@ -73,7 +73,7 @@ body{
 
 #puzzle-words li {
     padding: 3px 3px;
-    font: 2rem sans-serif;
+    font: 1.5rem sans-serif;
     color: white;
 }
 
